@@ -3,15 +3,15 @@ Have Installed Before Class Starts!!!!!
 
 1. Text Editor
 	* [Sublime Text](https://www.sublimetext.com/)
-	* Atom,
+	* [Atom](https://atom.io/)
 	* VS
-2. HomeBrew
+2. [HomeBrew]
 ```
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-3. Iterm 2
-4. Alfred
-5. Node
+3. Iterm 2(https://www.iterm2.com/)
+4. Alfred(https://www.alfredapp.com/)
+5. Node(https://nodejs.org/en/)
 6. Yarn
 7. GitHub-KingLuddite-Web-Dev-Notes
 8. Domster Redoux
