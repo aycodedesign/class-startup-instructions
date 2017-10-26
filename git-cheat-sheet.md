@@ -1,6 +1,6 @@
 **git init**: Reinitialized existing Git repository
 **git remote -v**: check origin-upstream for our github
-git status: check status of what git sees
+**git status**: check status of what git sees
 ## Add
 * `$ git add -A`
 	* Add all files to staging
@@ -10,3 +10,6 @@ git status: check status of what git sees
 ## Commit
 * `$ git commit -m 'meaningful message here'`
 * Leave a meaning message for you to remember what you did 6 months down the road. It is useful for you and your team.
+
+Updated by Paolo
+Task2

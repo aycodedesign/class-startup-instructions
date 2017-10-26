@@ -1,4 +1,11 @@
-# Terminal Notes
+# Classroom Installation Instructions
+1. Install [Homebrew](https://brew.sh/)
+    * Use the following URL: 
+
+```
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+## Terminal Notes
 1. ~ = root folder
 2. pwd = print working directory; (where am I on this computer?)
 3. cd = change directory; (I want to go here)
